@@ -1,0 +1,25 @@
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\appsettings.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\Text-based Game.exe
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\Text-based Game.deps.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\Text-based Game.runtimeconfig.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\Text-based Game.dll
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\bin\Debug\net8.0\Text-based Game.pdb
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.AssemblyInfoInputs.cache
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.AssemblyInfo.cs
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets\msbuild.Text-based Game.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets\msbuild.build.Text-based Game.props
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Text-based Game.props
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Text-based Game.props
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\scopedcss\bundle\Text-based Game.styles.css
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.dll
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\refint\Text-based Game.dll
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.pdb
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\Text-based Game.genruntimeconfig.cache
+C:\Users\Eren\Downloads\Text-based Game\Text-based Game\obj\Debug\net8.0\ref\Text-based Game.dll
